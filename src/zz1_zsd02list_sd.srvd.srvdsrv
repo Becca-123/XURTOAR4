@@ -1,0 +1,4 @@
+@EndUserText.label: '銷售訂單資料明細表(ZSD02)_標準版'
+define service ZZ1_ZSD02LIST_SD {
+  expose ZZ1_I_ZSD02LIST2;
+}

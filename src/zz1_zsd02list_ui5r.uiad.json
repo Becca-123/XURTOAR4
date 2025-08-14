@@ -1,0 +1,35 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "銷售訂單資料明細表",
+    "originalLanguage": "zh-Hant",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "銷售訂單資料明細表"
+  },
+  "ui5AppDetails": {
+    "appId": "zz1zsd02list"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_59649DF8B61865D73FBFEBF22A9474E3C6D86DE7_TM",
+    "semanticObject": "ZZ1_ZSD02LIST",
+    "action": "Manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_59649DF8B61865D73FBFEBF22A9474E3C6D86DE7_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "銷售訂單資料明細表",
+        "subtitle": "ZSD02"
+      }
+    }
+  ]
+}

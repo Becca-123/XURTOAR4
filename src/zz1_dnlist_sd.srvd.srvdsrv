@@ -1,0 +1,7 @@
+@EndUserText.label: '出貨單明細表Service Definition'
+define service ZZ1_DNList_SD {
+  expose ZZ1_PV_DNList;
+  expose ZZ1_I_DNLIST2;
+  expose ZZ1_PV_TEST23;
+  expose ZZ1_I_TEST23;
+}

@@ -1,0 +1,9 @@
+@EndUserText.label: '出貨單明細表權限'
+@MappingRole: true
+define role ZZ1_DNList_AC  {
+    grant select on ZZ1_I_DNLIST
+    where ( ShippingPoint ) =
+    aspect pfcg_auth (  v_likp_vst,
+                        vstel,
+                        actvt = '03' ) ;                      
+}
