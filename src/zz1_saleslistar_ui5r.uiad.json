@@ -1,0 +1,34 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "銷售交易明細表-AR",
+    "originalLanguage": "zh-Hant",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD"
+  },
+  "ui5AppDetails": {
+    "appId": "zz1saleslistar"
+  },
+  "navigation": {
+    "targetMappingId": "UI5R_29592B5B3C3804F221A5A58E3F531A218D79406E_TM",
+    "semanticObject": "zz1_saleslistar",
+    "action": "manage",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "UI5R_29592B5B3C3804F221A5A58E3F531A218D79406E_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "銷售交易明細表-AR",
+        "subtitle": "SalesList-AR"
+      }
+    }
+  ]
+}

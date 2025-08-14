@@ -1,0 +1,4 @@
+@EndUserText.label: '銷售交易明細表AR Service Definition'
+define service ZZ1_SALESLIST_AR_SD {
+  expose ZZ1_PV_SALESLIST_AR;
+}
